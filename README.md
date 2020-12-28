@@ -1,4 +1,22 @@
-### Hi there 👋
+## Hi there 👋
+Backend developer by choice, frontend by necessity. Life made me Full Stack
+
+## Skills
+* Python
+* Djanjo
+* SQF (Arma III scripts language)
+* Docker / docker compose
+* MySQL (Some)
+* Bootstrap (Some)
+* JS (Rusty)
+* JQUERY / JQUERY UI (Rusty)
+* Ajax (Rusty)
+* PHP (Rusty)
+* CakePHP (Rusty)
+* C (Rusty)
+
+
+
 
 <!--
 **VulturARG/VulturARG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
