@@ -1,5 +1,5 @@
 ## Hi there 👋
-**Backend developer by choice**, frontend by necessity. Life made me Full Stack
+***Backend developer by choice***, frontend by necessity. Life made me Full Stack
 
 ## Skills
 * Python
