@@ -5,8 +5,10 @@ Backend developer by choice, frontend by necessity. Life made me Full Stack
 * Python
 * Djanjo
 * SQF (Arma III scripts language)
-* Docker / docker compose
 * MySQL (Some)
+* Docker / docker compose
+* HTML
+* CSS (Some)
 * Bootstrap (Some)
 * JS (Rusty)
 * JQUERY / JQUERY UI (Rusty)
