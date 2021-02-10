@@ -5,17 +5,17 @@
 * Python
 * Djanjo
 * SQF (Arma III scripts language)
-* MySQL (Some)
+* MySQL
 * Docker / docker compose
 * HTML
-* CSS (Some)
-* Bootstrap (Some)
-* JS (Rusty)
-* JQUERY / JQUERY UI (Rusty)
-* Ajax (Rusty)
-* PHP (Rusty)
-* CakePHP (Rusty)
-* C (Rusty)
+* CSS
+* Bootstrap
+* JS
+* JQUERY / JQUERY UI
+* Ajax
+* PHP
+* CakePHP
+* C
 
 
 
