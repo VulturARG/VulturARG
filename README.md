@@ -4,7 +4,6 @@
 ## Skills
 * Python
 * Djanjo
-* SQF (Arma III scripts language)
 * MySQL
 * Docker / docker compose
 * HTML
@@ -16,6 +15,7 @@
 * PHP
 * CakePHP
 * C
+* SQF (Arma III scripts language)
 
 
 
