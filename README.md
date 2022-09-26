@@ -3,7 +3,7 @@
 
 ## Skills
 * Python
-* Djanjo
+* Djanjo REST Framework
 * MySQL
 * Docker / docker compose
 * HTML
