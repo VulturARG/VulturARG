@@ -3,19 +3,14 @@
 
 ## Skills
 * Python
+* SOLID principles.
+* Design patterns.
+* Clean Code.
+* Clean architectures (Hexagonal).
 * Djanjo REST Framework
 * MySQL
 * Docker / docker compose
-* HTML
-* CSS
-* Bootstrap
-* JS
-* JQUERY / JQUERY UI
-* Ajax
-* PHP
-* CakePHP
-* C
-* SQF (Arma III scripts language)
+
 
 
 
