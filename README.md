@@ -7,9 +7,11 @@
 * Design patterns.
 * Clean Code.
 * Clean architectures (Hexagonal).
-* Djanjo REST Framework
-* MySQL
-* Docker / docker compose
+* Djanjo REST Framework (DRF).
+* FastAPI.
+* MySQL.
+* PostgreSQL.
+* Docker / docker compose.
 
 
 
